@@ -11,3 +11,9 @@ web-build/
 
 # macOS
 .DS_Store
+
+#ignore .vs folder
+/.vs
+
+#ignore package lock json
+package-lock.json
